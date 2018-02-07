@@ -1,4 +1,4 @@
-# Discussion Groups
+# Collaboration Groups
 Links to Telegram groups for Instagram discussion.
 * [Animals](https://t.me/iginfluencersanimals)
 * [Art](https://t.me/iginfluencersart)
